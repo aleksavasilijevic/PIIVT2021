@@ -17,6 +17,6 @@
         const MAIL_HOST = 'smtp.office365.com';
         const MAIL_PORT = '587';
         const MAIL_PROTOCOL = 'tls';
-        const MAIL_USERNAME = 'katarina.jaksic.18@singimail.rs';
+        const MAIL_USERNAME = 'aleksa.vasilijevic.15@singimail.rs';
         const MAIL_PASSWORD = '';
     }
